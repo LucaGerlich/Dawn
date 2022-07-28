@@ -23,7 +23,7 @@ buildscript {
       deeplinkDispatch: '6.1.0',
       androidTest     : '1.0.2',
       kotlin          : '1.6.21',
-      room            : '2.4.2',
+      room            : '2.4.3',
       jsoup           : '1.15.1',
       rxjava          : '2.2.21',
       markwon         : '2.0.2',
